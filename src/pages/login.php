@@ -57,6 +57,7 @@
           type="text"
           name="username"
           placeholder=""
+          value="admin"
         />
       </div>
     </div>
@@ -70,6 +71,7 @@
           type="password"
           placeholder=""
           name="password"
+          value="root1234"
         />
       </div>
     </div>
